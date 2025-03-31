@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- 🔗 **Solution URL**: [View on Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-landing-page-responsive-flexbox-tailwindcss)
+- 🔗 **Solution URL**: [View on Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks---tailwindcss-uQjY0C_Y_u)
 - 🌐 **Live Site URL**: [https://fawaziwalewa.github.io/huddle-landing-page-with-alternating-feature-blocks/](https://fawaziwalewa.github.io/huddle-landing-page-with-alternating-feature-blocks/)
 
 ## My Process
