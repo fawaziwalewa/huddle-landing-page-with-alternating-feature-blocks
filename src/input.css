@@ -4,12 +4,12 @@
 
 header {
     background-color: #EDFBFF;
-    background-image: url('./images/bg-hero-desktop.svg');
+    background-image: url('../images/bg-hero-desktop.svg');
 }
 
 /* Mobile */
 @media (max-width: 768px) {
     header {
-        background-image: url('./images/bg-hero-mobile.svg');
+        background-image: url('../images/bg-hero-mobile.svg');
     }
 }
