@@ -73,5 +73,5 @@ In future projects, I plan to:
 
 - Website – [iwaola.me](https://iwaola.me)
 - Frontend Mentor – [@fawaziwalewa](https://www.frontendmentor.io/profile/fawaziwalewa)
-- Twitter – [@IwalewaFawaz](https://twitter.com/IwalewaFawaz)
+- Twitter – [@iwalewa_fawaz](https://x.com/iwalewa_fawaz)
 - LinkedIn – [Fawaz Iwalewa](https://www.linkedin.com/in/fawaz-iwalewa/)
